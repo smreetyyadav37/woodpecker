@@ -17,3 +17,5 @@ SimPy
 PuLP
 gunicorn
 python-dotenv
+sentinelsat
+h5py
